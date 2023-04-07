@@ -13,7 +13,7 @@ body {
     min-height: 100vh;
     font-family: var(--font);
     background: radial-gradient(ellipse at bottom, var(--bgColor) 0%, var(--bgColor2) 100%);
-    background-image: url('https://c1.peakpx.com/wallpaper/836/790/467/shopping-store-fashion-retail-wallpaper-preview.jpg');
+    background-image: url('https://zanda.boutique/bg.png');
     opacity: 0;
     animation: 1s ease-out var(--delay) 1 transitionAnimation;
     /* duration/timing-function/delay/iterations/name */
@@ -55,7 +55,7 @@ body {
 
 .link {
     position: relative;
-    background-color: transparent;
+    background-color: #0000006e;
     color: var(--accentColor);
     border: solid var(--accentColor) 2px;
     border-radius: 10px;
